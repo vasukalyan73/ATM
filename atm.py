@@ -21,7 +21,7 @@ if main ==1:
         if NAME ==name and password ==pasw:
             print("welcome")
             print('''
-            1.balenc enquary
+            1.balance enquary
             2.money withdrow
             3.money diposit 
             4.mini statment
